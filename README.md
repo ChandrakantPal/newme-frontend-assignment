@@ -2,9 +2,9 @@
 
 Add OMDB API in the `.env` or `.env.local` file
 
-````
+````ts
 NEXT_PUBLIC_API_KEY=YOUR_API_KEY
-```ts
+````
 
 First, run the development server:
 
